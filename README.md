@@ -1,8 +1,12 @@
-Ushahidi Toolkit
+Ushahidi Manual
 
-This site is the nascent toolkit for the Ushahidi v.3 release in 2014. It is being built based on previous work plus lessons learned over the past several years of deployments.
+This site is the nascent User Manual for the Ushahidi v.3 release in 2014. It is being built based on interviews with the core Ushahidi developers, interviews with the Ushahidi community, and readings of previous documentation (and its shortcomings). It will be built here in the open over the summer of 2014.
 
+________
 
+This site is built on Jekyll/GitHub Pages, using the theme Flex. Per the MIT License for Flex, the following text is cited in this README file.
+
+________
 About Flex, the theme for this site
 
 Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.

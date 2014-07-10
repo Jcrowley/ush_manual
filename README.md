@@ -1,4 +1,4 @@
-Ushahidi Manual ...
+Ushahidi Manual and Toolkit
 
 Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
 

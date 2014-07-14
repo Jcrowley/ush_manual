@@ -150,13 +150,20 @@ h2.subtitle {
 #title {
   color: #494949;
   margin-bottom: 0.35em;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .post {
   line-height: 24px;
   max-width: 725px;
   clear: both;
+}
+
+.post h1 {
+  margin-top: 1.25em;
+  margin-left: 0em;
+  margin-bottom: 0.25em;
+  font-size: 1.5em;
 }
 
 .post h2 {
